@@ -9,3 +9,4 @@ a few more sample filters for it that work as well but the possibilites are as m
 Essientially what the code does is process an image into RGB values, classifies those values into a specified number
 of categories based on similarity of value, then it changes the RGB values of each classified category into that of 
 the pre-selected color values of the filter.
+
